@@ -1,8 +1,14 @@
 body {
-    background: linear-gradient(to right, rgb(207, 147, 147), rgb(170, 170, 227));
+    background: linear-gradient(to right, rgb(237, 225, 225), rgb(215, 235, 188));
 }
 
 h1 {
     text-align: center;
     font-size: 70px;
+    margin: center;
+}
+
+img {
+    border: 3px solid black;
+    border-radius: 30px;
 }
