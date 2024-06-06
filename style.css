@@ -20,9 +20,19 @@ img {
 
 ul {
     font-size: 40px;
+    border-bottom: 3px solid black;
 }
 
 li {
     margin-bottom: 50px; 
 }
 
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin: center;
+}
+
+.references {
+    font-size: 25px;
+}
